@@ -1,2 +1,6 @@
 # created by virtualenv automatically
+<<<<<<< HEAD
 *.doc
+=======
+*.doc
+text.doc

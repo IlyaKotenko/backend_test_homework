@@ -1,8 +1,0 @@
-*.doc
-text.doc
-*.doc
-pyvenv.cfg
-/Scripts
-/Lib
-../text.doc
-../.idea
